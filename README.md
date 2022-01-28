@@ -42,8 +42,8 @@ The default PORTS are:
 You can also run them with individually:
 
 ```shell
-npm run server:dev
-npm run client:dev
+npm run dev-sever
+npm run dev-client
 npm run storybook
 ```
 
